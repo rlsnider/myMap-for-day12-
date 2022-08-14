@@ -1,0 +1,1103 @@
+{
+    "coffee": {
+        "results": [
+            {
+                "fsq_id": "542f148d498efb6b9c97fbdc",
+                "categories": [
+                    {
+                        "id": 13035,
+                        "name": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+                        "name": "Starbucks"
+                    }
+                ],
+                "distance": 1223,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.531385,
+                        "longitude": -121.959126
+                    },
+                    "roof": {
+                        "latitude": 37.531385,
+                        "longitude": -121.959126
+                    }
+                },
+                "link": "/v3/places/542f148d498efb6b9c97fbdc",
+                "location": {
+                    "address": "41093 Fremont Blvd",
+                    "census_block": "060014423012000",
+                    "country": "US",
+                    "cross_street": "at Irvington Ave",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "41093 Fremont Blvd (at Irvington Ave), Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Irvington District"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Starbucks",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4b74cd0cf964a520c6f22de3",
+                "categories": [
+                    {
+                        "id": 13043,
+                        "name": "Donut Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13145,
+                        "name": "Fast Food Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 1299,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.532522,
+                        "longitude": -121.957897
+                    },
+                    "roof": {
+                        "latitude": 37.532522,
+                        "longitude": -121.957897
+                    }
+                },
+                "link": "/v3/places/4b74cd0cf964a520c6f22de3",
+                "location": {
+                    "address": "3942 Washington Blvd",
+                    "census_block": "060014423013003",
+                    "country": "US",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "3942 Washington Blvd, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Irvington District"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Vasy's Donut Shop",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4a725091f964a520dada1fe3",
+                "categories": [
+                    {
+                        "id": 13035,
+                        "name": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+                        "name": "Starbucks"
+                    }
+                ],
+                "distance": 1377,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.511315,
+                        "longitude": -121.947924
+                    },
+                    "roof": {
+                        "latitude": 37.511315,
+                        "longitude": -121.947924
+                    }
+                },
+                "link": "/v3/places/4a725091f964a520dada1fe3",
+                "location": {
+                    "address": "43941 Hugo Ter",
+                    "census_block": "060014415252009",
+                    "country": "US",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "43941 Hugo Ter, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "East Industrial"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Starbucks",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "5032d188e4b044311486ce67",
+                "categories": [
+                    {
+                        "id": 13035,
+                        "name": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13334,
+                        "name": "Sandwich Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 2336,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.529787,
+                        "longitude": -121.983128
+                    },
+                    "roof": {
+                        "latitude": 37.529787,
+                        "longitude": -121.983128
+                    }
+                },
+                "link": "/v3/places/5032d188e4b044311486ce67",
+                "location": {
+                    "address": "4949 Stevenson Blvd",
+                    "census_block": "060014425011007",
+                    "country": "US",
+                    "cross_street": "at Blacow",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "4949 Stevenson Blvd (at Blacow), Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Irvington District"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Suju's Coffee & Tea",
+                "related_places": {
+                    "parent": {
+                        "fsq_id": "509beb2ee4b031185f185f61",
+                        "name": "Sundale Shopping Center"
+                    }
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4a66da25f964a520d7c81fe3",
+                "categories": [
+                    {
+                        "id": 13035,
+                        "name": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13068,
+                        "name": "American Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 3633,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.533518,
+                        "longitude": -121.920734
+                    },
+                    "roof": {
+                        "latitude": 37.533518,
+                        "longitude": -121.920734
+                    }
+                },
+                "link": "/v3/places/4a66da25f964a520d7c81fe3",
+                "location": {
+                    "address": "151 Washington Blvd",
+                    "census_block": "060014431044006",
+                    "country": "US",
+                    "cross_street": "at Mission Blvd",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "151 Washington Blvd (at Mission Blvd), Fremont, CA 94539",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Mission San Jose"
+                    ],
+                    "postcode": "94539",
+                    "region": "CA"
+                },
+                "name": "Mission Coffee",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            }
+        ],
+        "context": {
+            "geo_bounds": {
+                "circle": {
+                    "center": {
+                        "latitude": 37.520345,
+                        "longitude": -121.9586759
+                    },
+                    "radius": 22000
+                }
+            }
+        }
+    },
+    "restaurant": {
+        "results": [
+            {
+                "fsq_id": "551d9dae498e84479b9fcf3f",
+                "categories": [
+                    {
+                        "id": 13302,
+                        "name": "Mediterranean Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13309,
+                        "name": "Middle Eastern Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 1905,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.505472,
+                        "longitude": -121.96947
+                    },
+                    "roof": {
+                        "latitude": 37.505472,
+                        "longitude": -121.96947
+                    }
+                },
+                "link": "/v3/places/551d9dae498e84479b9fcf3f",
+                "location": {
+                    "address": "43514 Christy St",
+                    "census_block": "060014415032038",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "43514 Christy St, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Albrae"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Dish N Dash",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4ab43736f964a5206c7020e3",
+                "categories": [
+                    {
+                        "id": 13031,
+                        "name": "Burger Joint",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13145,
+                        "name": "Fast Food Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "bc635867-86af-4d4d-9dfd-e7b17779fe0c",
+                        "name": "In-N-Out Burger"
+                    }
+                ],
+                "distance": 2249,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.504154,
+                        "longitude": -121.974128
+                    },
+                    "roof": {
+                        "latitude": 37.504154,
+                        "longitude": -121.974128
+                    }
+                },
+                "link": "/v3/places/4ab43736f964a5206c7020e3",
+                "location": {
+                    "address": "43349 Pacific Commons Blvd",
+                    "census_block": "060014415032064",
+                    "country": "US",
+                    "cross_street": "at Braun St",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "43349 Pacific Commons Blvd (at Braun St), Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Albrae"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "In-N-Out Burger",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "560155a6498e50d63d6e4cbb",
+                "categories": [
+                    {
+                        "id": 13068,
+                        "name": "American Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13145,
+                        "name": "Fast Food Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "16d16020-992b-0132-fd75-7a163eb2a6fc",
+                        "name": "Chick-Fil-A"
+                    }
+                ],
+                "distance": 2124,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.50525,
+                        "longitude": -121.973471
+                    },
+                    "roof": {
+                        "latitude": 37.50525,
+                        "longitude": -121.973471
+                    }
+                },
+                "link": "/v3/places/560155a6498e50d63d6e4cbb",
+                "location": {
+                    "address": "5539 Auto Mall Pkwy",
+                    "census_block": "060014415032022",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "5539 Auto Mall Pkwy, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Albrae"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Chick-Fil-A",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "52ab7e8211d2ea12382db4fb",
+                "categories": [
+                    {
+                        "id": 13145,
+                        "name": "Fast Food Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "f2ee844c-8417-4c9f-80ff-e79f1c44cad4",
+                        "name": "Firehouse Subs"
+                    }
+                ],
+                "distance": 2346,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.503848,
+                        "longitude": -121.975187
+                    },
+                    "roof": {
+                        "latitude": 37.503848,
+                        "longitude": -121.975187
+                    }
+                },
+                "link": "/v3/places/52ab7e8211d2ea12382db4fb",
+                "location": {
+                    "address": "43344 Boscell Rd",
+                    "census_block": "060014415032064",
+                    "country": "US",
+                    "cross_street": "Auto Mall Pkwy.",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "43344 Boscell Rd (Auto Mall Pkwy.), Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Albrae"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Firehouse Subs",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "53908c14498ecee96b4f87f3",
+                "categories": [
+                    {
+                        "id": 13064,
+                        "name": "Pizzeria",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        }
+                    },
+                    {
+                        "id": 13145,
+                        "name": "Fast Food Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "e979cef3-ab8c-4eba-82f8-b391f36e6ee9",
+                        "name": "Blaze Pizza"
+                    }
+                ],
+                "distance": 2333,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.501407,
+                        "longitude": -121.970249
+                    }
+                },
+                "link": "/v3/places/53908c14498ecee96b4f87f3",
+                "location": {
+                    "address": "43831 Pacific Commons Blvd",
+                    "census_block": "060014415032074",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "43831 Pacific Commons Blvd, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Baylands"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Blaze Pizza",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            }
+        ],
+        "context": {
+            "geo_bounds": {
+                "circle": {
+                    "center": {
+                        "latitude": 37.520345,
+                        "longitude": -121.9586759
+                    },
+                    "radius": 22000
+                }
+            }
+        }
+    },
+    "hotel": {
+        "results": [
+            {
+                "fsq_id": "4bc3989adce4eee1abab719d",
+                "categories": [
+                    {
+                        "id": 19014,
+                        "name": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "cedd3cb9-4822-40a8-a47d-4f3b42ec42d5",
+                        "name": "Holiday Inn Express"
+                    }
+                ],
+                "distance": 1642,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.511325,
+                        "longitude": -121.973301
+                    },
+                    "roof": {
+                        "latitude": 37.511325,
+                        "longitude": -121.973301
+                    }
+                },
+                "link": "/v3/places/4bc3989adce4eee1abab719d",
+                "location": {
+                    "address": "42200 Albrae St",
+                    "census_block": "060014415032019",
+                    "country": "US",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "42200 Albrae St, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "Holiday Inn Express & Suites Fremont - Milpitas Central, an IHG Hotel",
+                "related_places": {
+                    "children": []
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "5a720b4535f98352a058b656",
+                "categories": [
+                    {
+                        "id": 19014,
+                        "name": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 19669,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.48246,
+                        "longitude": -122.17648
+                    },
+                    "roof": {
+                        "latitude": 37.48246,
+                        "longitude": -122.17648
+                    }
+                },
+                "link": "/v3/places/5a720b4535f98352a058b656",
+                "location": {
+                    "address": "200 Independence Dr",
+                    "census_block": "060816117004016",
+                    "country": "US",
+                    "cross_street": "Chrysler Drive",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "200 Independence Dr (Chrysler Drive), Menlo Park, CA 94025",
+                    "locality": "Menlo Park",
+                    "neighborhood": [
+                        "Flood Park Triangle"
+                    ],
+                    "postcode": "94025",
+                    "region": "CA"
+                },
+                "name": "Hotel Nia",
+                "related_places": {
+                    "children": [
+                        {
+                            "fsq_id": "5c481a8fda5e56002cc5b232",
+                            "name": "Presidential Suite"
+                        },
+                        {
+                            "fsq_id": "5ae737a3a6fe4d002cbcf1d3",
+                            "name": "Verve Coffee"
+                        },
+                        {
+                            "fsq_id": "5defae0fee0c6b0008389f86",
+                            "name": "Fitness Center"
+                        },
+                        {
+                            "fsq_id": "5c647a72fd9d73002c26c224",
+                            "name": "Pool at Hotel Nia"
+                        },
+                        {
+                            "fsq_id": "5ad665f48ad62e1338893689",
+                            "name": "Porta Blu"
+                        }
+                    ]
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4a1dfd2df964a520b47b1fe3",
+                "categories": [
+                    {
+                        "id": 19014,
+                        "name": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "55cc6270-d891-0132-61d8-7a163eb2a6fc",
+                        "name": "Four Seasons Hotel"
+                    }
+                ],
+                "distance": 17517,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.460305,
+                        "longitude": -122.142236
+                    },
+                    "roof": {
+                        "latitude": 37.460305,
+                        "longitude": -122.142236
+                    }
+                },
+                "link": "/v3/places/4a1dfd2df964a520b47b1fe3",
+                "location": {
+                    "address": "2050 University Ave",
+                    "census_block": "060816121013000",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "2050 University Ave, East Palo Alto, CA 94303",
+                    "locality": "East Palo Alto",
+                    "neighborhood": [
+                        "Professorville"
+                    ],
+                    "postcode": "94303",
+                    "region": "CA"
+                },
+                "name": "Four Seasons Hotel",
+                "related_places": {
+                    "children": [
+                        {
+                            "fsq_id": "4b74645ef964a520a4d92de3",
+                            "name": "Quattro"
+                        },
+                        {
+                            "fsq_id": "58eb6e8a04aa4f12b35654d8",
+                            "name": "[Esc]"
+                        }
+                    ]
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "53df184e498e3083a4e99662",
+                "categories": [
+                    {
+                        "id": 19014,
+                        "name": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "c0fe6c6b-d1ba-4084-a2a5-afa42b5b5d3d",
+                        "name": "DoubleTree"
+                    }
+                ],
+                "distance": 20310,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.700533,
+                        "longitude": -121.918159
+                    },
+                    "roof": {
+                        "latitude": 37.700533,
+                        "longitude": -121.918159
+                    }
+                },
+                "link": "/v3/places/53df184e498e3083a4e99662",
+                "location": {
+                    "address": "7050 Johnson Dr",
+                    "census_block": "060014506034007",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "7050 Johnson Dr, Pleasanton, CA 94588",
+                    "locality": "Pleasanton",
+                    "neighborhood": [
+                        "Dougherty"
+                    ],
+                    "postcode": "94588",
+                    "region": "CA"
+                },
+                "name": "DoubleTree by Hilton Hotel Pleasanton at the Club",
+                "related_places": {
+                    "children": [
+                        {
+                            "fsq_id": "50ca02c0245f2d4aa8c2b2b3",
+                            "name": "Players Restaurant"
+                        }
+                    ]
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4a3e7d16f964a520f6a21fe3",
+                "categories": [
+                    {
+                        "id": 19009,
+                        "name": "Lodging",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [],
+                "distance": 20448,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.447656,
+                        "longitude": -122.172082
+                    },
+                    "roof": {
+                        "latitude": 37.447656,
+                        "longitude": -122.172082
+                    }
+                },
+                "link": "/v3/places/4a3e7d16f964a520f6a21fe3",
+                "location": {
+                    "address": "100 El Camino Real",
+                    "census_block": "060816126001000",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "100 El Camino Real, Menlo Park, CA 94025",
+                    "locality": "Menlo Park",
+                    "neighborhood": [
+                        "Allied Arts"
+                    ],
+                    "postcode": "94025",
+                    "region": "CA"
+                },
+                "name": "The Stanford Park Hotel",
+                "related_places": {
+                    "children": [
+                        {
+                            "fsq_id": "4ee229f29911340c36acedad",
+                            "name": "Woodside Room at Stanford Park Hotel"
+                        },
+                        {
+                            "fsq_id": "4e2a43a018387cce06664f8f",
+                            "name": "Menlo Tavern"
+                        }
+                    ]
+                },
+                "timezone": "America/Los_Angeles"
+            }
+        ],
+        "context": {
+            "geo_bounds": {
+                "circle": {
+                    "center": {
+                        "latitude": 37.520345,
+                        "longitude": -121.9586759
+                    },
+                    "radius": 22000
+                }
+            }
+        }
+    },
+    "store": {
+        "results": [
+            {
+                "fsq_id": "4b74d327f964a52014f42de3",
+                "categories": [
+                    {
+                        "id": 11163,
+                        "name": "Shipping, Freight, and Material Transportation Service",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4b13e0-d68a-012e-5619-003048cad9da",
+                        "name": "The UPS Store"
+                    }
+                ],
+                "distance": 1290,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.532014,
+                        "longitude": -121.958586
+                    },
+                    "roof": {
+                        "latitude": 37.532014,
+                        "longitude": -121.958586
+                    }
+                },
+                "link": "/v3/places/4b74d327f964a52014f42de3",
+                "location": {
+                    "address": "3984 Washington Blvd",
+                    "census_block": "060014423013003",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "3984 Washington Blvd, Fremont, CA 94538",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Irvington District"
+                    ],
+                    "postcode": "94538",
+                    "region": "CA"
+                },
+                "name": "The UPS Store",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4dd17978e4cd130e16af6a23",
+                "categories": [
+                    {
+                        "id": 11163,
+                        "name": "Shipping, Freight, and Material Transportation Service",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4b13e0-d68a-012e-5619-003048cad9da",
+                        "name": "The UPS Store"
+                    }
+                ],
+                "distance": 2952,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.519772,
+                        "longitude": -121.992041
+                    },
+                    "roof": {
+                        "latitude": 37.519772,
+                        "longitude": -121.992041
+                    }
+                },
+                "link": "/v3/places/4dd17978e4cd130e16af6a23",
+                "location": {
+                    "address": "39962 Cedar Blvd",
+                    "census_block": "060014446021020",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "39962 Cedar Blvd, Newark, CA 94560",
+                    "locality": "Newark",
+                    "neighborhood": [
+                        "Waterford"
+                    ],
+                    "postcode": "94560",
+                    "region": "CA"
+                },
+                "name": "The UPS Store",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4bdb1035c79cc928d8f080e9",
+                "categories": [
+                    {
+                        "id": 11163,
+                        "name": "Shipping, Freight, and Material Transportation Service",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4b13e0-d68a-012e-5619-003048cad9da",
+                        "name": "The UPS Store"
+                    }
+                ],
+                "distance": 3983,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.555583,
+                        "longitude": -121.950691
+                    },
+                    "roof": {
+                        "latitude": 37.555583,
+                        "longitude": -121.950691
+                    }
+                },
+                "link": "/v3/places/4bdb1035c79cc928d8f080e9",
+                "location": {
+                    "address": "40087 Mission Blvd",
+                    "census_block": "060014421001002",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "40087 Mission Blvd, Fremont, CA 94539",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "Central Downtown"
+                    ],
+                    "postcode": "94539",
+                    "region": "CA"
+                },
+                "name": "The UPS Store",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4d360c54b5936dcb1d6eeeb8",
+                "categories": [
+                    {
+                        "id": 11163,
+                        "name": "Shipping, Freight, and Material Transportation Service",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "ab4b13e0-d68a-012e-5619-003048cad9da",
+                        "name": "The UPS Store"
+                    }
+                ],
+                "distance": 4620,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.487033,
+                        "longitude": -121.927251
+                    },
+                    "roof": {
+                        "latitude": 37.487033,
+                        "longitude": -121.927251
+                    }
+                },
+                "link": "/v3/places/4d360c54b5936dcb1d6eeeb8",
+                "location": {
+                    "address": "47000 Warm Springs Blvd",
+                    "address_extended": "Ste 1",
+                    "census_block": "060014433211016",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "47000 Warm Springs Blvd, Fremont, CA 94539",
+                    "locality": "Fremont",
+                    "neighborhood": [
+                        "East Industrial"
+                    ],
+                    "postcode": "94539",
+                    "region": "CA"
+                },
+                "name": "The UPS Store",
+                "related_places": {},
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "fsq_id": "4b64b1fdf964a52010c92ae3",
+                "categories": [
+                    {
+                        "id": 17043,
+                        "name": "Clothing Store",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                            "suffix": ".png"
+                        }
+                    }
+                ],
+                "chains": [
+                    {
+                        "id": "4a5da2bc-82c7-4335-b165-e16b44e26e17",
+                        "name": "Banana Republic"
+                    }
+                ],
+                "distance": 12977,
+                "geocodes": {
+                    "main": {
+                        "latitude": 37.414571,
+                        "longitude": -121.896323
+                    },
+                    "roof": {
+                        "latitude": 37.414571,
+                        "longitude": -121.896323
+                    }
+                },
+                "link": "/v3/places/4b64b1fdf964a52010c92ae3",
+                "location": {
+                    "address": "492 Great Mall Dr",
+                    "census_block": "060855045101006",
+                    "country": "US",
+                    "cross_street": "",
+                    "dma": "San Francisco-Oakland-San Jose",
+                    "formatted_address": "492 Great Mall Dr, Milpitas, CA 95035",
+                    "locality": "Milpitas",
+                    "neighborhood": [
+                        "North Valley"
+                    ],
+                    "postcode": "95035",
+                    "region": "CA"
+                },
+                "name": "Banana Republic Factory Store",
+                "related_places": {
+                    "parent": {
+                        "fsq_id": "829a2279d68c4eadb225ca91",
+                        "name": "Great Mall"
+                    }
+                },
+                "timezone": "America/Los_Angeles"
+            }
+        ],
+        "context": {
+            "geo_bounds": {
+                "circle": {
+                    "center": {
+                        "latitude": 37.520345,
+                        "longitude": -121.9586759
+                    },
+                    "radius": 22000
+                }
+            }
+        }
+    }
+}
